@@ -4,6 +4,7 @@ import 'package:authtutorial/services/auth.dart';
 import 'package:flutter/material.dart';
 
 class WidgetTree extends StatefulWidget {
+  const WidgetTree({super.key});
   @override
   State<WidgetTree> createState() => _WidgetTreeState();
 }
